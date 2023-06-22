@@ -8,10 +8,10 @@ CREATE TABLE IF NOT EXISTS devtracker (
     TimeWorked     TEXT,
     TicketDetails  TEXT 
 )
-
+/*
 CREATE TABLE IF NOT EXISTS sprintMaster (
     Id             INTEGER PRIMARY KEY AUTOINCREMENT UNIQUE NOT NULL,
     SprintValue     TEXT NOT NULL,
     StartDate       TEXT,
     EndDate         TEXT
-)
+) */
