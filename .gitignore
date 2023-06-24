@@ -1,6 +1,9 @@
 .venv/
 
 dist/
+sql/
+
+testing.py
 
 *.sqlite
 *.spec
